@@ -1,0 +1,30 @@
+span {
+    color: red;
+    font-size: large;
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+}
+body {
+    background-color: lightblue;
+}
+.container .row .col {
+    padding: 10px;
+    border-radius: 5%;
+    background-color: white;
+    border-style: groove;
+}
+.tab-content .tab-pane .container {
+    background-color: white;
+    border-style: ridge;
+}
+body .container {
+    margin-top: 10px;
+}
+footer.container {
+    margin-top: 100px;
+    justify-content: end;
+    background-color: lightcyan;
+    
+}
